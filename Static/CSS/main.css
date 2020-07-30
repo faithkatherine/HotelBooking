@@ -1,0 +1,34 @@
+body{
+ background-color: black;
+}
+ul{
+    list-style-type: none;    
+    float: right;
+    background-color: rgb(170, 41, 159);
+    width: 100%;
+
+    
+   
+}
+
+li{
+    float:right;
+}
+
+li a{
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: rgb(92, 222, 245);  
+    width: %;  
+}
+tittle{
+    color:  rgb(92, 222, 245);;
+}
+img{
+    width: 100%;
+    
+}
+article{
+    color: cornsilk;
+}
